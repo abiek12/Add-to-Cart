@@ -3,7 +3,7 @@
 
 ## Description
 
-The Add to Cart Web App is a simple and user-friendly application designed to assist family members in creating shopping lists and keeping track of items that need to be purchased. Developed using HTML, CSS, and JavaScript, this project provides an intuitive way for users to:
+The Add to Cart Web App is a simple and user-friendly progressive web application designed to assist family members in creating shopping lists and keeping track of items that need to be purchased. Developed using HTML, CSS, and JavaScript, this project provides an intuitive way for users to:
 
 - Add items to the shopping cart for later purchase.
 - Remove items from the cart once they've been bought.
