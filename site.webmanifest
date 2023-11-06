@@ -1,6 +1,6 @@
 {
   "name": "Add to Cart",
-  "short_name": "Cart",
+  "short_name": "Add to Cart",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -14,7 +14,7 @@
     }
   ],
 
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#F5F5F5",
+  "background_color": "#F5F5F5",
   "display": "standalone"
 }
